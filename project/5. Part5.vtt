@@ -1,0 +1,124 @@
+WEBVTT
+
+00:00.520 --> 00:04.890
+OK so now are we going to go with the six features later.
+
+00:05.220 --> 00:11.240
+So we gonna basically look at this fact we are going to take the final model with six features and a
+
+00:11.250 --> 00:12.910
+bird that's all good.
+
+00:13.170 --> 00:19.140
+And remember I'm using this Euless method to do this than we are doing this prediction and all that
+
+00:19.140 --> 00:25.230
+doing to somebody looking at the SKU out of just enough square calculating the odds squares call for
+
+00:25.660 --> 00:26.960
+this data.
+
+00:26.970 --> 00:32.110
+Now what we going to do is we're going to evaluate a final more and we're going to see that whether
+
+00:32.140 --> 00:33.440
+this model is good or not.
+
+00:33.600 --> 00:37.220
+So there are a few things we need to Nortel though.
+
+00:37.430 --> 00:42.990
+What you're getting so should be kind of approximately near to zero so the distribution should be more
+
+00:43.000 --> 00:43.960
+around zero.
+
+00:44.220 --> 00:50.090
+Second thing is there should be not much sort of correlation between the predictors So we will see the
+
+00:50.130 --> 00:51.740
+six Latimer's 16:00 guard.
+
+00:51.780 --> 00:56.820
+They should not be too much of the correlation between them and the third thing is we will look at the
+
+00:57.540 --> 00:58.730
+spread of the variance.
+
+00:58.730 --> 01:01.210
+Basically a part we want to check.
+
+01:01.210 --> 01:06.210
+Basically there's almost kind of safety feature but if we don't know about that you have to be worried
+
+01:06.210 --> 01:09.520
+about this but this is a linear regression as.
+
+01:09.600 --> 01:10.560
+What we do have.
+
+01:10.830 --> 01:12.610
+Now look at this.
+
+01:12.660 --> 01:18.210
+So when we plotted this erratum you can see that the value is more more or less kind of at zero.
+
+01:18.210 --> 01:24.000
+In fact what we can do is we can see other plot which is Leiter's minus vibrate and you can see that
+
+01:24.000 --> 01:29.850
+this is around zero and if we calculate the mean value does really tell us that we are coming around
+
+01:29.850 --> 01:32.380
+minus 1:57 which is almost close to zero.
+
+01:32.400 --> 01:37.220
+Because if you look at the whole distribution this minus 32 is not a very.
+
+01:37.230 --> 01:42.110
+Time now for the two that we can see the distribution of this plot.
+
+01:42.150 --> 01:47.880
+Now let's look at the multi-collinearity for that we can draw a heat map we can see that yes at some
+
+01:47.880 --> 01:54.450
+places we do have of some sort of correlation but at the same time it's your call today because when
+
+01:54.450 --> 01:57.870
+I tried to move it up it was increasing that distance.
+
+01:58.170 --> 02:03.240
+So if you want to kind of maybe try removing some of the thing and can compromise with a little bit
+
+02:03.240 --> 02:04.470
+of a distance.
+
+02:04.770 --> 02:10.350
+But for now I can go with the 6 features and get tell to my company that OK.
+
+02:10.380 --> 02:14.590
+You can probably use this Gollum's as the main predictor for the price.
+
+02:14.730 --> 02:17.730
+So this is accordingly you can give the pricing part for it.
+
+02:17.750 --> 02:20.910
+This is a very simple project on.
+
+02:21.090 --> 02:26.850
+I would not even call it a project it's a simple case to me which I did it for a linear regression so
+
+02:26.850 --> 02:34.080
+that you at least get up from starting to end without using PC on a bigger column that are set up to
+
+02:34.080 --> 02:40.720
+solve something and come up with a model how to choose a better model from all the other models for
+
+02:40.720 --> 02:41.730
+pure greed.
+
+02:41.970 --> 02:45.200
+And we're also seeing the our fee kind of usage in this case.
+
+02:45.220 --> 02:50.310
+But I want to give you an assignment here and you have to try with PC and this thing and see that folks.
