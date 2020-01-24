@@ -1,0 +1,187 @@
+WEBVTT
+
+00:00.810 --> 00:03.020
+So now we're going to build the model.
+
+00:03.090 --> 00:08.920
+So we're going to use the linear regression and going to fit the train and just look at the coefficient
+
+00:08.920 --> 00:15.780
+and intercept the value which is coming up from this and we can do the prediction on the set and when
+
+00:15.780 --> 00:21.170
+we did this and calculate the odds what you will notice that we got 83 percent quarters.
+
+00:21.510 --> 00:22.630
+Okay not bad.
+
+00:23.010 --> 00:25.390
+But remember this is on a huge set of call.
+
+00:25.440 --> 00:28.410
+We would like to or kind of decrease them.
+
+00:28.600 --> 00:35.670
+So in this case Tony I'm not going to Zune PC knowledge at the moment so I'm going to go with respect
+
+00:35.670 --> 00:41.130
+to some people out of the matter because I want to show you that how to use our fee even in this.
+
+00:41.400 --> 00:44.160
+Feel free to use PC or PC any.
+
+00:44.190 --> 00:51.780
+As for your wish now let's say 15 features if we go Glaxo me daddy going to lose it to 15.
+
+00:52.020 --> 00:55.890
+So we can just go and look at the rankings support and all that.
+
+00:55.910 --> 00:57.120
+To the prediction.
+
+00:57.120 --> 00:58.360
+Look at our squad.
+
+00:58.500 --> 01:01.270
+So we got 89 percent which is good right.
+
+01:01.290 --> 01:03.080
+We are getting a better accuracy.
+
+01:03.260 --> 01:03.540
+Ms.
+
+01:03.540 --> 01:11.150
+A-squared free then we can go with 6 or 6 Also we did a prediction or none and now we got it yet again.
+
+01:11.220 --> 01:17.400
+So we got this value but up which one we should choose like should go for 6.
+
+01:17.400 --> 01:18.770
+Or should we go for 15.
+
+01:18.810 --> 01:19.310
+Right.
+
+01:19.500 --> 01:24.590
+But actually we should not look at as what we have to also look at it to.
+
+01:24.630 --> 01:31.210
+That's one of the important metric and is to get that and just tell us what we need to use the tax model.
+
+01:31.230 --> 01:34.970
+So let's now create this model again Gingrich that's model.
+
+01:35.220 --> 01:41.660
+So now I'm going to create with two columns first and then you're going to do it with the summary or
+
+01:41.730 --> 01:47.760
+you would come across basically of dystrophin some ninety three point nine percent of US strategy numbers
+
+01:47.760 --> 01:50.660
+are stacked model so things can go a little different.
+
+01:50.670 --> 01:53.370
+And I just told us querist mindedly pointed.
+
+01:53.650 --> 02:00.690
+Now let's begin with the prediction by adding constant and then doing a prediction that and then look
+
+02:00.690 --> 02:03.570
+at that score which is zero point it nine.
+
+02:03.780 --> 02:08.720
+So although the training was NOT KNOW line 3 but on the test in 0.11.
+
+02:08.730 --> 02:13.030
+And for me it's more important to look at the test rather than on the plane.
+
+02:13.500 --> 02:20.490
+Now after that we can basically go and apply for the six columns again applying all the same stacks
+
+02:20.940 --> 02:28.150
+and with six I got all basically R-squared off in nine and basically idiot point five right on the test
+
+02:28.150 --> 02:28.750
+set.
+
+02:29.040 --> 02:30.930
+So this is what we are getting.
+
+02:30.930 --> 02:33.790
+For us to spike now what should we go for.
+
+02:33.870 --> 02:36.420
+Should we go for 15 or 16 or 17.
+
+02:36.420 --> 02:37.700
+We are getting a little better.
+
+02:37.720 --> 02:42.940
+Actually our square in comparison to 6 but what we can do.
+
+02:42.990 --> 02:48.400
+Well Mark can we stop at six centers in our trying it for about trying it.
+
+02:48.660 --> 02:56.070
+So in order to do that how about we treat it as a hyper power meter and create kind of a function which
+
+02:56.070 --> 02:59.080
+will run from 4 to let's say.
+
+02:59.400 --> 03:06.230
+And we will see that how I just R-squared and everything is coming up and we can plot a graph for it.
+
+03:06.690 --> 03:13.180
+So this is a simple function being created for what is going to run from 4 to 20 and you can notice
+
+03:13.200 --> 03:19.410
+that in this particular code we have basically written this predicted us crack and then we are just
+
+03:19.410 --> 03:24.620
+plotting this test as courtliness square and adjusted R-squared in this case.
+
+03:24.900 --> 03:31.470
+And you can notice that the star Square is deglazing after the Basically value somewhere around 12 or
+
+03:31.470 --> 03:32.140
+13.
+
+03:32.310 --> 03:36.640
+So we should not even look at and evaluate than tool because it is decreasing.
+
+03:36.870 --> 03:43.230
+And if you look at this value between 11:54 its kind of not moving much especially if you look at test
+
+03:43.450 --> 03:44.120
+script.
+
+03:44.400 --> 03:46.840
+So we really like to go with more simpler model.
+
+03:46.860 --> 03:50.070
+So I would choose the value 6 in this case.
+
+03:50.220 --> 03:55.830
+Now again you would have noticed that and not Bocking with respect to each and every line of code because
+
+03:56.310 --> 04:02.970
+again I'm going with an assumption that you know this is only giving you a patent which you need to
+
+04:02.970 --> 04:08.450
+follow and please not to each line of code on your own if you have any problem reasoned discussion forum
+
+04:08.490 --> 04:13.090
+but please you have to do everything on your own and your own.
+
+04:13.350 --> 04:14.430
+You should not do.
+
+04:14.430 --> 04:17.110
+The way I'm doing this is just for an explanation.
+
+04:17.160 --> 04:19.730
+But but you're definitely right on that score.
+
+04:19.750 --> 04:22.340
+Buy it or if you want to become a good scientist.

@@ -1,0 +1,109 @@
+WEBVTT
+
+00:00.900 --> 00:08.410
+So this is a relatively smaller and simpler problem but this will give you a good idea how to build
+
+00:08.410 --> 00:12.510
+up linear regression and there will be few challenges across my doing it.
+
+00:12.750 --> 00:18.980
+So these are things we are going to walk out of this there's a Chinese company let's call it tech of
+
+00:19.040 --> 00:19.850
+Chinese.
+
+00:20.160 --> 00:26.640
+And they want to let's say enter into the U.S. market so the automobile company will want to enter into
+
+00:26.640 --> 00:33.480
+this market by setting up their manufacturing unit there and then they want to produce the cars locally
+
+00:33.490 --> 00:37.700
+to give the competition to the U.S. and European counterpart.
+
+00:37.770 --> 00:44.190
+Now they have contracted an automobile concerting company to understand the factors on which the pricing
+
+00:44.190 --> 00:50.720
+of the car DePrince specifically they want to understand a factor affecting the uprising of the car
+
+00:50.810 --> 00:56.320
+in American market since those may be different for Chinese market specially.
+
+00:56.330 --> 01:03.470
+The company wants to know what all the values which are going to be significant in predicting the price
+
+01:03.470 --> 01:04.530
+of the car.
+
+01:04.700 --> 01:10.610
+So they want to specifically figure out that of what are those factors which are going to impact the
+
+01:10.650 --> 01:12.220
+rising column here.
+
+01:12.470 --> 01:15.810
+And how will those Maribel's described the price of the car.
+
+01:16.070 --> 01:22.940
+So based on various markets or whether consulting some have gathered a large data set of different type
+
+01:22.940 --> 01:30.590
+of cost across the American market and the business goal is that you are required to model the price
+
+01:30.590 --> 01:37.250
+of the US with the available independent partners and it will be used by the management to understand
+
+01:37.250 --> 01:40.860
+how exactly the prices vary with the independent variable.
+
+01:41.150 --> 01:47.240
+They can accordingly manipulate the design of the cost the business that GSX route to meet the certain
+
+01:47.240 --> 01:53.030
+price limit for the other model will be a good way for the management to understand the pricing dynamic
+
+01:53.030 --> 01:54.000
+in the new market.
+
+01:54.350 --> 01:57.670
+And we also have to do some bit of repression here.
+
+01:57.740 --> 02:03.830
+There is a valuable core that's got God's name which is going to be comprised of two but the first word
+
+02:03.950 --> 02:06.200
+will be card as a card company.
+
+02:06.290 --> 02:08.330
+And the second will be our car model.
+
+02:08.510 --> 02:14.770
+For example if it is an international late Impala then Chevrolet is going to be our car company name
+
+02:14.770 --> 02:16.480
+and Impala will be a car model.
+
+02:16.670 --> 02:23.150
+So you need to consider only the company name as an independent variable for model building up again.
+
+02:23.180 --> 02:30.300
+I have given you even the directionally along with it and this dataset is also available in U.S. repository.
+
+02:30.560 --> 02:35.930
+So you can also get all that data set is this data set will be easily available outside.
+
+02:35.950 --> 02:42.500
+And in fact you might want to see some solutions on Galgal for this Asmund so but this is a quite simple
+
+02:42.500 --> 02:43.600
+problem.
+
+02:43.670 --> 02:47.000
+If I compare with other problems I found that it is a drawback.
+
+02:47.000 --> 02:50.430
+This is going to give you a good insight on leaner readership.
+
+02:50.660 --> 02:55.100
+So that's the reason I have chosen to keep it inside this particular course.

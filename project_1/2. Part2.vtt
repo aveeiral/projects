@@ -1,0 +1,280 @@
+WEBVTT
+
+00:01.140 --> 00:04.790
+So now we're going to divide this problem into four parts.
+
+00:04.800 --> 00:11.760
+But before I go into the solution again the same request of Please do try to solve it refasten and run.
+
+00:11.880 --> 00:18.780
+And this is relatively a simpler problem any further problem it is going to come is going to be much
+
+00:18.780 --> 00:20.980
+more complex than this problem.
+
+00:21.060 --> 00:27.300
+So I would strongly recommend all of you to please try to do it on your own first rather than up looking
+
+00:27.300 --> 00:28.320
+at the solution.
+
+00:28.560 --> 00:32.930
+And especially you should look at the data and it's not evil because if you're not clear on that you
+
+00:32.930 --> 00:37.210
+tangentally you will not be able to understand what I'm going to explain you in this.
+
+00:37.230 --> 00:38.520
+I'm not going to go there.
+
+00:38.580 --> 00:41.540
+Actually this is something which you have to do.
+
+00:41.570 --> 00:44.770
+My focus would be to understand me to understand the problem.
+
+00:46.210 --> 00:48.760
+So here there are the four steps we're going to follow.
+
+00:48.760 --> 00:51.850
+One is to understand the data then we will do the cleaning.
+
+00:51.860 --> 00:54.030
+Back then we will do the preparation part.
+
+00:54.130 --> 00:56.840
+Then we will build the model and evaluate it.
+
+00:57.190 --> 01:02.020
+So let's look at the first part where we can explore and understand it.
+
+01:02.290 --> 01:04.340
+So first we need to import these packages.
+
+01:04.360 --> 01:09.520
+And we need to load this place of assignment which I've given to use us to solve it.
+
+01:09.970 --> 01:15.630
+And then we can look at the information or we can see that this is all the data what we have we can
+
+01:15.630 --> 01:20.430
+see though of basically the state of quickly this is the data of what we can see here.
+
+01:20.680 --> 01:24.160
+Now let's try to understand the data dictionary.
+
+01:24.160 --> 01:30.810
+So once you have done this you can see one part which is stumbling the one column albedo which the North
+
+01:30.810 --> 01:37.380
+that minus two means less risky and plus three means more risky so the valuable billion or minus two
+
+01:37.420 --> 01:38.500
+plus three.
+
+01:38.500 --> 01:42.730
+So what we're going to do we will come back how many values are available here so we can do all that
+
+01:42.730 --> 01:46.560
+you can for that and can see that there are basically zero.
+
+01:46.570 --> 01:53.470
+Which is like neutral kind of back where they are 67 in above but minus 2 minus 1 is also having some
+
+01:53.470 --> 01:54.090
+code.
+
+01:54.400 --> 02:00.910
+Now Similarly you will see another variable called the suspension this is an internal combustion engine
+
+02:01.330 --> 02:06.920
+are properties showing red and oxygen intake is through standard or through turbocharging.
+
+02:07.030 --> 02:11.600
+So that is basically aspiration if you read through it and actually this detail is there.
+
+02:11.770 --> 02:18.340
+So let's convert it to categorical because we have only two and we can call that standard or just like
+
+02:18.340 --> 02:22.440
+168 in total and Turbo is like 37 in total.
+
+02:22.750 --> 02:29.560
+Now let's do it for gravey and front wheel or for which we can see here that this is all the distribution
+
+02:29.560 --> 02:31.960
+for Dr B is going to look like.
+
+02:31.960 --> 02:33.540
+Now look at four wheel base.
+
+02:33.540 --> 02:39.090
+Now for the base we have just done our distribution plot because again this is kind of a numeric value.
+
+02:39.160 --> 02:44.330
+So when we do this you can see that most of the values are falling around 90.
+
+02:44.360 --> 02:46.740
+Right so the middle are ninety two hundred.
+
+02:46.930 --> 02:47.840
+This is falling more.
+
+02:48.010 --> 02:52.560
+Similarly when I did it for code grade up and then the solution is going well.
+
+02:52.780 --> 02:57.240
+We have done it for stroke also to see that where the maximum values are coming up.
+
+02:57.520 --> 03:01.060
+And similar thing we have done it for compression ratio.
+
+03:01.060 --> 03:05.400
+In fact you can see in compression ratio things are moving towards the right hand side as well.
+
+03:05.710 --> 03:11.570
+Now we have done it for pricing also and you can see that most of the casings are around like ten thousand
+
+03:11.570 --> 03:12.300
+cents on average.
+
+03:12.310 --> 03:14.920
+So that's what of the pleasing maxim coming up.
+
+03:14.930 --> 03:21.970
+Now let's do some data exploration now in order to before we are playing at ignition it's always better
+
+03:21.970 --> 03:24.240
+to look at the correlation in on.
+
+03:24.400 --> 03:30.460
+So maybe one thing we need to do is we need to look out first all the pneumatic and fluid balance because
+
+03:31.260 --> 03:35.540
+definitely we cannot do the correlations or looking at the paper plot.
+
+03:35.620 --> 03:38.110
+We cannot look at all that on the categorical data.
+
+03:38.110 --> 03:41.380
+So we have to look at all these things from the numerical data.
+
+03:41.590 --> 03:47.010
+So we will pull out only the floor an integer value and you will notice that there is there are two
+
+03:47.020 --> 03:49.000
+columns like symbole right next door.
+
+03:49.030 --> 03:54.340
+It is integer but we will treat it like a vertical because you have six values so you will not make
+
+03:54.340 --> 03:56.960
+much inference if you treat your like Domanick.
+
+03:57.010 --> 03:58.410
+So now what are you going to do.
+
+03:58.450 --> 04:03.250
+We have dropped the simile and when we can also drop cards and remember we are dropping it from the
+
+04:03.250 --> 04:05.980
+pneumatic ratable not from anything else.
+
+04:06.010 --> 04:10.220
+So when we are done that now further to this we can draw up here plot.
+
+04:10.360 --> 04:16.120
+So we are going to pay a lot for all the car pneumatics basically which are integer float and we can
+
+04:16.120 --> 04:17.120
+see this.
+
+04:17.380 --> 04:22.570
+If you want to again go ahead and try to see some nice literature it's very difficult for me to look
+
+04:22.570 --> 04:28.390
+at it without a microscope because there are so much of fusion of multi-column to matter thing is maybe
+
+04:28.390 --> 04:33.640
+we can look at the correlation metrics and the correlation although it will be difficult so let's draw
+
+04:33.640 --> 04:38.860
+our heat map and this map tell you quite interesting thing which I have noted down below.
+
+04:39.190 --> 04:46.000
+So fast as you can see the prize is highly are positively correlated with Beebe's Garland Garbett and
+
+04:46.000 --> 04:49.000
+KOBRICK engine size horsepower.
+
+04:49.210 --> 04:53.700
+Notice how all these ratable represent the size weight engine power of the car.
+
+04:53.800 --> 05:00.490
+So definitely even if you think from your own personal experience these are the things that impact your
+
+05:00.490 --> 05:06.500
+car racing and the same if you look at WCA and you will notice that there will be more closer to one.
+
+05:06.540 --> 05:07.210
+That's the reason.
+
+05:07.210 --> 05:08.880
+These are highly correlated.
+
+05:09.100 --> 05:16.570
+Similarly if you look at the city MPG and highway mpg they basically it will be like minus 0.7 in this
+
+05:16.570 --> 05:17.990
+match up with double glove.
+
+05:18.190 --> 05:22.060
+So they are negatively correlated with the price.
+
+05:22.060 --> 05:29.020
+This suggests that maybe the car is having a higher mileage rate they might be put in place so you can
+
+05:29.020 --> 05:31.330
+think of like a middle class family.
+
+05:31.420 --> 05:34.550
+Are they kind of prefer to go with Model-T and all that.
+
+05:34.550 --> 05:35.250
+It's a.
+
+05:35.270 --> 05:36.470
+Eat and drink.
+
+05:36.650 --> 05:38.470
+If I'm talking about Indian market.
+
+05:38.470 --> 05:44.050
+So the reason they do that because they look at the average are no more than us forward or anything
+
+05:44.050 --> 05:45.540
+else so they don't bother about much.
+
+05:45.720 --> 05:52.910
+Things that mileage Similarly you will notice some correlation among independent farmers like me.
+
+05:52.960 --> 05:57.110
+Basically you will see that really based Karlan go with engine size.
+
+05:57.260 --> 06:00.000
+They are all the measure of leg size by weight.
+
+06:00.000 --> 06:02.740
+That's the reason they are all positively correlated.
+
+06:02.750 --> 06:08.790
+Right now this is this becomes a very important factor and you cannot really ignore it because you have
+
+06:08.790 --> 06:16.020
+to make sure that you do need to remove all those multicollinearity before you create a final model
+
+06:16.020 --> 06:16.650
+for yourself.
+
+06:16.650 --> 06:18.200
+This is a very important factor.

@@ -1,0 +1,160 @@
+WEBVTT
+
+00:00.860 --> 00:05.300
+Now we are going to perform some data cleaning and data processing part.
+
+00:05.310 --> 00:06.880
+So let's look at information.
+
+00:06.900 --> 00:12.260
+This is all we have and you can notice that we don't have much of the missing values or in fact non-missing
+
+00:12.280 --> 00:17.500
+value here so that it is given to clean and that does not alter that.
+
+00:17.640 --> 00:24.270
+So that's the reason I was telling you it's a relatively simple problem in assembling walls into 20
+
+00:24.390 --> 00:29.340
+so let's convert it to object let's treat it as categorical as I explained to you as well.
+
+00:29.660 --> 00:30.710
+So we have done that.
+
+00:30.750 --> 00:33.090
+And now let's look at your car name.
+
+00:33.120 --> 00:38.820
+Remember in the car name it was mentioned in the problem statement that we should pull up the first
+
+00:38.820 --> 00:39.900
+entry from there.
+
+00:40.170 --> 00:44.120
+So we were de-coupled the BMW let's say from BMW X-1.
+
+00:44.130 --> 00:49.220
+Similarly BMX BMW X3 will be treated as only BMW.
+
+00:49.500 --> 00:53.740
+So now let's take over the obvious printing of the 0 8 index and this is the read.
+
+00:53.760 --> 00:57.080
+But now this is also kind of renewal for iPhone and all that.
+
+00:57.090 --> 01:02.850
+So let's basically bring it and use a regular expression to bring it properly so that's what we're doing
+
+01:03.200 --> 01:03.880
+now.
+
+01:04.060 --> 01:10.890
+Now once we are done with this up we can just physically apply this up and now you can see that all
+
+01:10.890 --> 01:12.770
+those dash everything is gone.
+
+01:13.020 --> 01:19.290
+Now once we have done one thing you'll notice that there are a lot of spelling mistake like of one.
+
+01:19.290 --> 01:22.260
+Also you can what is that let's say Nissan is an invention.
+
+01:22.620 --> 01:29.460
+And some will basically here you will also and in fact you can also see Toyota have a wrong spelling.
+
+01:29.460 --> 01:30.850
+You have a VW here.
+
+01:30.880 --> 01:31.650
+We other ones.
+
+01:31.700 --> 01:32.520
+They're going here.
+
+01:32.700 --> 01:35.160
+And so what they are from the sun as well.
+
+01:35.180 --> 01:36.030
+Sure you.
+
+01:36.210 --> 01:40.340
+So you will notice that my is starting with capital and degrade.
+
+01:40.340 --> 01:41.760
+So one is smaller.
+
+01:41.770 --> 01:43.290
+And second is opportunity.
+
+01:43.440 --> 01:46.820
+So there are a lot of mistakes mythically here which need to be fixed.
+
+01:47.040 --> 01:53.820
+So I've mentioned all those things like VW and Bolz-Weber should be was vegan are similarly posh spelling
+
+01:53.820 --> 01:59.240
+is wrong or does faling is wrong and so to me I've just written a simple python code to fix it.
+
+01:59.430 --> 02:03.490
+Once this is done begin again look at that I look around and so on.
+
+02:03.660 --> 02:09.050
+Now further to this we can drop the Garnham because we have already derived the column which we want.
+
+02:09.150 --> 02:12.530
+And then after that we can just look at the data.
+
+02:12.600 --> 02:13.950
+Everything looks good.
+
+02:13.950 --> 02:15.730
+Look at the information things look good.
+
+02:15.750 --> 02:17.910
+Let's go to the application Chris.
+
+02:18.050 --> 02:23.610
+So not the sort of collection you have so we are surprised about X and Y and what we need to do for
+
+02:23.610 --> 02:28.520
+all the categorical column we need to create dummy ratable So that's what we're doing in the next phase.
+
+02:28.710 --> 02:31.640
+Once we are done with the next step.
+
+02:31.650 --> 02:37.440
+So we have created a dummy and all that we can drop local or regional categorical column because that's
+
+02:37.440 --> 02:41.960
+what we don't need and get merge done the Miss column which we have just created.
+
+02:42.150 --> 02:47.520
+Once we're done with this we have to scale it up so we are basically taking the step here to kill all
+
+02:47.520 --> 02:48.470
+these things up.
+
+02:48.810 --> 02:54.670
+And once we have still the data now we are going to spread it to to 70 to 80 percent of it.
+
+02:55.320 --> 03:01.890
+So if we notice now and moving to this project very quickly because all these things if you have done
+
+03:01.890 --> 03:07.830
+my machine running quartet's and I have done it in the case Turley's there it just that definitely this
+
+03:07.830 --> 03:12.080
+is a kind of little bigger project than that and we have to look at multiple things.
+
+03:12.120 --> 03:15.060
+But at the same time these attacks we have done it.
+
+03:15.100 --> 03:20.020
+So that's the reason I'm moving little faster zooming that you know this if you have not done all this
+
+03:20.020 --> 03:25.290
+you need to first go and can invoke on the machine when it goes before you kind of jump to the product
+
+03:25.290 --> 03:26.040
+section Darcie.
