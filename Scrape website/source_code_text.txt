@@ -1,0 +1,1105 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 8) ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://www.creativeshrimp.com/xmlrpc.php" />
+
+    <!--[if lt IE 9]>
+<script src="https://www.creativeshrimp.com/wp-content/themes/litemag/assets/js/html5shiv.js"></script>
+<script src="https://www.creativeshrimp.com/wp-content/themes/litemag/assets/js/respond.min.js"></script>
+<![endif]-->
+
+    <!-- This section is created with the SZ-Google for WordPress plugin 1.9.0 -->
+    <!-- ===================================================================== -->
+    <!-- ===================================================================== -->
+
+    <!-- This site is optimized with the Yoast SEO plugin v14.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+    <title>Top 30 Artworks of Beeple from 2015 (WARNING: Can Cause Brain Damage) &bull; Creative Shrimp</title>
+    <meta name="description" content="Mike Winkelmann aka Beeple has finished an &#039;everyday&#039; image for over 3100 days. Here are Top 30 Artworks of Beeple from 2015." />
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="canonical" href="https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Top 30 Artworks of Beeple from 2015 (WARNING: Can Cause Brain Damage) &bull; Creative Shrimp" />
+    <meta property="og:description" content="Mike Winkelmann aka Beeple has finished an &#039;everyday&#039; image for over 3100 days. Here are Top 30 Artworks of Beeple from 2015." />
+    <meta property="og:url" content="https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/" />
+    <meta property="og:site_name" content="Creative Shrimp" />
+    <meta property="article:publisher" content="https://www.facebook.com/CreativeShrimp/" />
+    <meta property="article:published_time" content="2015-11-12T11:55:21+00:00" />
+    <meta property="article:modified_time" content="2015-11-12T12:05:14+00:00" />
+    <meta property="og:image" content="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ONE-FOOT.jpg" />
+    <meta property="og:image:width" content="900" />
+    <meta property="og:image:height" content="900" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@gleb_alexandrov" />
+    <meta name="twitter:site" content="@gleb_alexandrov" />
+    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.creativeshrimp.com/#organization","name":"Creative Shrimp","url":"https://www.creativeshrimp.com/","sameAs":["https://www.facebook.com/CreativeShrimp/","https://www.instagram.com/gleb.alexandrov/","https://www.youtube.com/user/GlebAlexandrov","https://twitter.com/gleb_alexandrov"],"logo":{"@type":"ImageObject","@id":"https://www.creativeshrimp.com/#logo","inLanguage":"en-US","url":"https://www.creativeshrimp.com/wp-content/uploads/2018/11/CreativeShrimp-logo.png","width":280,"height":50,"caption":"Creative Shrimp"},"image":{"@id":"https://www.creativeshrimp.com/#logo"}},{"@type":"WebSite","@id":"https://www.creativeshrimp.com/#website","url":"https://www.creativeshrimp.com/","name":"Creative Shrimp","description":"CG Tutorials, art and coffee for 3D Artists","publisher":{"@id":"https://www.creativeshrimp.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.creativeshrimp.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/#primaryimage","inLanguage":"en-US","url":"https://www.creativeshrimp.com/wp-content/uploads/2015/11/beeple_thumbnail_01_1.jpg","width":1018,"height":499,"caption":"beeple mike winkelmann"},{"@type":"WebPage","@id":"https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/#webpage","url":"https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/","name":"Top 30 Artworks of Beeple from 2015 (WARNING: Can Cause Brain Damage) &bull; Creative Shrimp","isPartOf":{"@id":"https://www.creativeshrimp.com/#website"},"primaryImageOfPage":{"@id":"https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/#primaryimage"},"datePublished":"2015-11-12T11:55:21+00:00","dateModified":"2015-11-12T12:05:14+00:00","description":"Mike Winkelmann aka Beeple has finished an 'everyday' image for over 3100 days. Here are Top 30 Artworks of Beeple from 2015.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/"]}]},{"@type":"Article","@id":"https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/#article","isPartOf":{"@id":"https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/#webpage"},"author":{"@id":"https://www.creativeshrimp.com/#/schema/person/cfe18eed95cc0a19d241565c31c54a12"},"headline":"Top 30 Artworks of Beeple from 2015 (WARNING: Can Cause Brain Damage)","datePublished":"2015-11-12T11:55:21+00:00","dateModified":"2015-11-12T12:05:14+00:00","commentCount":"42","mainEntityOfPage":{"@id":"https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/#webpage"},"publisher":{"@id":"https://www.creativeshrimp.com/#organization"},"image":{"@id":"https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/#primaryimage"},"keywords":"art","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/#respond"]}]},{"@type":["Person"],"@id":"https://www.creativeshrimp.com/#/schema/person/cfe18eed95cc0a19d241565c31c54a12","name":"Gleb Alexandrov","image":{"@type":"ImageObject","@id":"https://www.creativeshrimp.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/54dc64c25c0116bc9d1c68c97af137bd?s=96&r=g","caption":"Gleb Alexandrov"}}]}</script>
+    <!-- / Yoast SEO plugin. -->
+
+    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+    <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+    <link rel='dns-prefetch' href='//s.w.org' />
+    <link rel="alternate" type="application/rss+xml" title="Creative Shrimp &raquo; Feed" href="https://www.creativeshrimp.com/feed" />
+    <link rel="alternate" type="application/rss+xml" title="Creative Shrimp &raquo; Comments Feed" href="https://www.creativeshrimp.com/comments/feed" />
+    <link rel="alternate" type="application/rss+xml" title="Creative Shrimp &raquo; Top 30 Artworks of Beeple from 2015 (WARNING: Can Cause Brain Damage) Comments Feed" href="https://www.creativeshrimp.com/top-30-artworks-of-beeple.html/feed" />
+    <script type="text/javascript">
+        window._wpemojiSettings = {
+            "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/",
+            "ext": ".png",
+            "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/",
+            "svgExt": ".svg",
+            "source": {
+                "concatemoji": "https:\/\/www.creativeshrimp.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"
+            }
+        };
+        /*! This file is auto-generated */
+        ! function(e, a, t) {
+            var r, n, o, i, p = a.createElement("canvas"),
+                s = p.getContext && p.getContext("2d");
+
+            function c(e, t) {
+                var a = String.fromCharCode;
+                s.clearRect(0, 0, p.width, p.height), s.fillText(a.apply(this, e), 0, 0);
+                var r = p.toDataURL();
+                return s.clearRect(0, 0, p.width, p.height), s.fillText(a.apply(this, t), 0, 0), r === p.toDataURL()
+            }
+
+            function l(e) {
+                if (!s || !s.fillText) return !1;
+                switch (s.textBaseline = "top", s.font = "600 32px Arial", e) {
+                    case "flag":
+                        return !c([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039]) && (!c([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !c([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]));
+                    case "emoji":
+                        return !c([55357, 56424, 55356, 57342, 8205, 55358, 56605, 8205, 55357, 56424, 55356, 57340], [55357, 56424, 55356, 57342, 8203, 55358, 56605, 8203, 55357, 56424, 55356, 57340])
+                }
+                return !1
+            }
+
+            function d(e) {
+                var t = a.createElement("script");
+                t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t)
+            }
+            for (i = Array("flag", "emoji"), t.supports = {
+                    everything: !0,
+                    everythingExceptFlag: !0
+                }, o = 0; o < i.length; o++) t.supports[i[o]] = l(i[o]), t.supports.everything = t.supports.everything && t.supports[i[o]], "flag" !== i[o] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[i[o]]);
+            t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function() {
+                t.DOMReady = !0
+            }, t.supports.everything || (n = function() {
+                t.readyCallback()
+            }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function() {
+                "complete" === a.readyState && t.readyCallback()
+            })), (r = t.source || {}).concatemoji ? d(r.concatemoji) : r.wpemoji && r.twemoji && (d(r.twemoji), d(r.wpemoji)))
+        }(window, document, window._wpemojiSettings);
+    </script>
+    <style type="text/css">
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+    </style>
+    <style type="text/css" media="all">
+        .wpautoterms-footer {
+            background-color: #ffffff;
+            text-align: center;
+        }
+        
+        .wpautoterms-footer a {
+            color: #000000;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+        }
+        
+        .wpautoterms-footer .separator {
+            color: #cccccc;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+        }
+    </style>
+    <link rel='stylesheet' id='wp-block-library-css' href='https://www.creativeshrimp.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='aps-animate-css-css' href='https://www.creativeshrimp.com/wp-content/plugins/accesspress-social-icons/css/animate.css?ver=1.7.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='aps-frontend-css-css' href='https://www.creativeshrimp.com/wp-content/plugins/accesspress-social-icons/css/frontend.css?ver=1.7.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpautoterms_css-css' href='https://www.creativeshrimp.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/css/wpautoterms.css?ver=5.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css' href='https://www.creativeshrimp.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='mashsb-styles-css' href='https://www.creativeshrimp.com/wp-content/plugins/mashsharer/assets/css/mashsb.min.css?ver=3.7.5' type='text/css' media='all' />
+    <style id='mashsb-styles-inline-css' type='text/css'>
+        .mashsb-count {
+            color: #cccccc;
+        }
+        
+        @media only screen and (min-width:568px) {
+            .mashsb-buttons a {
+                min-width: 177px;
+            }
+        }
+    </style>
+    <link rel='stylesheet' id='fontawesome-css' href='https://www.creativeshrimp.com/wp-content/plugins/olevmedia-shortcodes/assets/css/font-awesome.min.css?ver=5.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='omsc-shortcodes-css' href='https://www.creativeshrimp.com/wp-content/plugins/olevmedia-shortcodes/assets/css/shortcodes.css?ver=5.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='omsc-shortcodes-tablet-css' href='https://www.creativeshrimp.com/wp-content/plugins/olevmedia-shortcodes/assets/css/shortcodes-tablet.css?ver=5.4' type='text/css' media='screen and (min-width: 768px) and (max-width: 959px)' />
+    <link rel='stylesheet' id='omsc-shortcodes-mobile-css' href='https://www.creativeshrimp.com/wp-content/plugins/olevmedia-shortcodes/assets/css/shortcodes-mobile.css?ver=5.4' type='text/css' media='screen and (max-width: 767px)' />
+    <link rel='stylesheet' id='rs-plugin-settings-css' href='https://www.creativeshrimp.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.2' type='text/css' media='all' />
+    <style id='rs-plugin-settings-inline-css' type='text/css'>
+        .tp-caption a {
+            color: #fff;
+            text-shadow: none;
+            -webkit-transition: all 0.2s ease-out;
+            -moz-transition: all 0.2s ease-out;
+            -o-transition: all 0.2s ease-out;
+            -ms-transition: all 0.2s ease-out
+        }
+        
+        .tp-caption a:hover {
+            color: #ffa902
+        }
+        
+        .tp-caption a {
+            color: #fff;
+            text-shadow: none;
+            -webkit-transition: all 0.2s ease-out;
+            -moz-transition: all 0.2s ease-out;
+            -o-transition: all 0.2s ease-out;
+            -ms-transition: all 0.2s ease-out
+        }
+        
+        .tp-caption a:hover {
+            color: #ffa902
+        }
+    </style>
+    <link rel='stylesheet' id='mc4wp-form-themes-css' href='https://www.creativeshrimp.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css?ver=4.7.7' type='text/css' media='all' />
+    <link rel='stylesheet' id='bluthcodes-style-css' href='https://www.creativeshrimp.com/wp-content/themes/litemag/assets/plugins/bluthcodes/style.css?ver=5.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='fontawesome-style-css' href='https://www.creativeshrimp.com/wp-content/themes/litemag/assets/css/font-awesome.min.css?ver=5.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='bootstrap-style-css' href='https://www.creativeshrimp.com/wp-content/themes/litemag/assets/css/bootstrap.min.css?ver=5.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='bluth-style-css' href='https://www.creativeshrimp.com/wp-content/themes/litemag-child/style.css?ver=5.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='bluth-googlefonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%2C900%7COpen+Sans%3A400%2C700%7CRoboto%3A400%2C500&#038;subset=latin&#038;ver=5.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='SC_styles-css' href='https://www.creativeshrimp.com/wp-content/plugins/social-media-followers-counter/css/style.css?ver=4.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='wptt_front-css' href='https://www.creativeshrimp.com/wp-content/plugins/wp-twitter-feeds/controller/../css/admin_style.min.css?ver=5.4' type='text/css' media='all' />
+    <!--[if IE 7]>
+<link rel='stylesheet' id='fontawesome-ie-css'  href='//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome-ie7.min.css?ver=1.3.9' type='text/css' media='all' />
+<![endif]-->
+    <style>
+        /* Accessible for screen readers but hidden from view */
+        
+        .fa-hidden {
+            position: absolute;
+            left: -10000px;
+            top: auto;
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+        }
+        
+        .rtl .fa-hidden {
+            left: 10000px;
+        }
+        
+        .fa-showtext {
+            margin-right: 5px;
+        }
+    </style>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/accesspress-social-icons/js/frontend.js?ver=1.7.7'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var mashsb = {
+            "shares": "53",
+            "round_shares": "",
+            "animate_shares": "1",
+            "dynamic_buttons": "0",
+            "share_url": "https:\/\/www.creativeshrimp.com\/top-30-artworks-of-beeple.html",
+            "title": "Top+30+Artworks+of+Beeple+from+2015+%28WARNING%3A+Can+Cause+Brain+Damage%29",
+            "image": "https:\/\/www.creativeshrimp.com\/wp-content\/uploads\/2015\/11\/beeple_thumbnail_01_1.jpg",
+            "desc": "Abso-fucking-lutely nuts. Mike Winkelmann aka Beeple has finished an 'everyday' image for over 3100 days.\r\nEvery. Day.\r\n[label style=\"yellow\"]In his own words \u201csome of it is ok, but a lot of it kind of blows ass.\u201d[\/label]\r\nFor sure \u2026",
+            "hashtag": "@gleb_alexandrov",
+            "subscribe": "link",
+            "subscribe_url": "http:\/\/www.creativeshrimp.com\/subscribe",
+            "activestatus": "1",
+            "singular": "1",
+            "twitter_popup": "1",
+            "refresh": "0",
+            "nonce": "12119f9a24",
+            "postid": "12134",
+            "servertime": "1588146652",
+            "ajaxurl": "https:\/\/www.creativeshrimp.com\/wp-admin\/admin-ajax.php"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/mashsharer/assets/js/mashsb.min.js?ver=3.7.5'></script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.0'></script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.2'></script>
+    <link rel='https://api.w.org/' href='https://www.creativeshrimp.com/wp-json/' />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.creativeshrimp.com/xmlrpc.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.creativeshrimp.com/wp-includes/wlwmanifest.xml" />
+    <meta name="generator" content="WordPress 5.4" />
+    <link rel='shortlink' href='https://www.creativeshrimp.com/?p=12134' />
+    <link rel="alternate" type="application/json+oembed" href="https://www.creativeshrimp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.creativeshrimp.com%2Ftop-30-artworks-of-beeple.html" />
+    <link rel="alternate" type="text/xml+oembed" href="https://www.creativeshrimp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.creativeshrimp.com%2Ftop-30-artworks-of-beeple.html&#038;format=xml" />
+    <link rel="Shortcut Icon" type="image/x-icon" href="https://www.creativeshrimp.com/wp-content/uploads/2014/10/favicon_02.png" />
+    <link rel="apple-touch-icon" href="https://www.creativeshrimp.com/wp-content/uploads/2014/10/favicon_02.png" />
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-55947464-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <meta name="generator" content="Powered by Slider Revolution 6.2.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+    <script type="text/javascript">
+        function setREVStartSize(e) {
+            try {
+                var pw = document.getElementById(e.c).parentNode.offsetWidth,
+                    newh;
+                pw = pw === 0 || isNaN(pw) ? window.innerWidth : pw;
+                e.tabw = e.tabw === undefined ? 0 : parseInt(e.tabw);
+                e.thumbw = e.thumbw === undefined ? 0 : parseInt(e.thumbw);
+                e.tabh = e.tabh === undefined ? 0 : parseInt(e.tabh);
+                e.thumbh = e.thumbh === undefined ? 0 : parseInt(e.thumbh);
+                e.tabhide = e.tabhide === undefined ? 0 : parseInt(e.tabhide);
+                e.thumbhide = e.thumbhide === undefined ? 0 : parseInt(e.thumbhide);
+                e.mh = e.mh === undefined || e.mh == "" || e.mh === "auto" ? 0 : parseInt(e.mh, 0);
+                if (e.layout === "fullscreen" || e.l === "fullscreen")
+                    newh = Math.max(e.mh, window.innerHeight);
+                else {
+                    e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+                    for (var i in e.rl)
+                        if (e.gw[i] === undefined || e.gw[i] === 0) e.gw[i] = e.gw[i - 1];
+                    e.gh = e.el === undefined || e.el === "" || (Array.isArray(e.el) && e.el.length == 0) ? e.gh : e.el;
+                    e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+                    for (var i in e.rl)
+                        if (e.gh[i] === undefined || e.gh[i] === 0) e.gh[i] = e.gh[i - 1];
+
+                    var nl = new Array(e.rl.length),
+                        ix = 0,
+                        sl;
+                    e.tabw = e.tabhide >= pw ? 0 : e.tabw;
+                    e.thumbw = e.thumbhide >= pw ? 0 : e.thumbw;
+                    e.tabh = e.tabhide >= pw ? 0 : e.tabh;
+                    e.thumbh = e.thumbhide >= pw ? 0 : e.thumbh;
+                    for (var i in e.rl) nl[i] = e.rl[i] < window.innerWidth ? 0 : e.rl[i];
+                    sl = nl[0];
+                    for (var i in nl)
+                        if (sl > nl[i] && nl[i] > 0) {
+                            sl = nl[i];
+                            ix = i;
+                        }
+                    var m = pw > (e.gw[ix] + e.tabw + e.thumbw) ? 1 : (pw - (e.tabw + e.thumbw)) / (e.gw[ix]);
+
+                    newh = (e.type === "carousel" && e.justify === "true" ? e.gh[ix] : (e.gh[ix] * m)) + (e.tabh + e.thumbh);
+                }
+
+                if (window.rs_init_css === undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));
+                document.getElementById(e.c).height = newh;
+                window.rs_init_css.innerHTML += "#" + e.c + "_wrapper { height: " + newh + "px }";
+            } catch (e) {
+                console.log("Failure at Presize of Slider:" + e)
+            }
+        };
+    </script>
+
+    <style type="text/css">
+        #main-content.container,
+        .container {
+            width: 1200px;
+        }
+        
+        .menu-brand h1 {
+            font-family: "Roboto", serif;
+        }
+        
+        h1,
+        h2,
+        h3,
+        h4,
+        h5 {
+            font-family: "Roboto", serif;
+        }
+        
+        .widget_calendar table > caption {
+            font-family: "Roboto", serif;
+        }
+        
+        body,
+        .meta-info {
+            font-family: "Open Sans", Helvetica, sans-serif;
+        }
+        
+        #header-main-menu,
+        #header-main-menu h1,
+        #header-main-menu h2,
+        #header-main-menu h3,
+        #header-main-menu h4,
+        #header-main-menu h5 {
+            font-family: "Roboto", Helvetica, sans-serif;
+        }
+        
+        body.boxed,
+        body.boxed #wrap,
+        body.boxed #footer {
+            width: 1240px;
+        }
+        
+        body {
+            background: #ffffff;
+            background-size: auto;
+        }
+        /*****************/
+        /*	FONTS
+			/*****************/
+        
+        body,
+        article .entry-content,
+        p {
+            font-size: 16px;
+        }
+        
+        .entry-content,
+        article .entry-content,
+        p {
+            line-height: 1.7;
+        }
+        /*****************/
+        /*	THEME COLORS
+			/*****************/
+        
+        #header-main-menu > ul > li > a,
+        #header-main-menu .menu > li.is-category > .child-menu-wrap > .child-post > a,
+        #header-main-menu .menu > li.has-category-children > .child-menu-wrap > .child-items > li > a,
+        #header-main-menu .normal-menu .child-items a,
+        #header-main-menu li.super-menu .child-items .child-items a {
+            color: #232323;
+        }
+        /* full-width image captions */
+        
+        .post-break .wp-caption-text {
+            background-color: #ffffff;
+        }
+        /* links */
+        
+        a,
+        a:hover,
+        #content a:before,
+        #content a:after,
+        .bl_posts article .moretag:before,
+        .bl_posts article .moretag:after {
+            border-bottom-color: #dd5454;
+            color: #dd5454;
+        }
+        /* theme background color */
+        
+        .signature-animation:after,
+        #header-main-menu > ul > li > a:after,
+        #header-main-menu li.super-menu .child-items .child-items a:after,
+        .widget_archive ul li span,
+        .widget_meta ul li span,
+        .widget_pages ul li span,
+        .widget_nav_menu ul li span,
+        .widget_categories ul li span,
+        .widget_archive ul li:after,
+        .widget_meta ul li:after,
+        .widget_pages ul li:after,
+        .widget_nav_menu ul li a:after,
+        .widget_tag_cloud a:after,
+        .widget_categories ul li:after,
+        .widget_calendar table td a:after,
+        .bl_posts article .post-image .info-category a:after,
+        .bl_posts article .post-footer .post-comments .info-comments span,
+        .bl_posts .widget-head .orderposts a.active,
+        .bl_posts .widget-head .orderposts a:focus,
+        .bl_posts .bl_posts_information .loader .dot,
+        .bl_posts_slider .tabs a:before,
+        .bl_posts_slider .tabs a:after,
+        .bl_posts_slider .info-category a:after,
+        .widget-head span:before,
+        .comment-reply-title span:before,
+        .bl_posts article .post-image .post-icon {
+            background-color: #ea5952;
+        }
+        /* theme border color */
+        
+        #header-content,
+        #header-top,
+        #header-main-menu .menu > .normal-menu .menu-item-has-children > a,
+        .bl_posts article .post-image .info-category a:hover,
+        .bl_posts_slider .tabs a:before,
+        .bl_posts_slider .tabs a:after,
+        .bl_posts_slider .info-category a:hover,
+        #header-main-menu > ul > li.super-menu .child-menu-wrap > .child-items,
+        .bl_tabs .tab-content img {
+            border-color: #ea5952;
+        }
+        /* theme font color */
+        
+        #header-main-menu li.super-menu .child-menu-wrap .menu-item-has-children > a,
+        #header-main-menu li.super-menu .child-menu-wrap .menu-item-has-children > a:hover,
+        #header-main-menu .menu > li.is-category .child-menu-wrap .menu-item-title,
+        #header-main-menu .menu > li.is-category > .child-menu-wrap > .child-post.active > a,
+        #header-main-menu .menu > li.has-category-children .child-menu-wrap .menu-item-title,
+        #header-main-menu .menu > li.has-category-children > .child-menu-wrap > .child-items > li.active > a,
+        #header-main-menu .menu > li.has-category-children > .child-menu-wrap > .child-items > li > a:hover,
+        .widget_archive ul li:hover span,
+        .widget_meta ul li:hover span,
+        .widget_pages ul li:hover span,
+        .widget_nav_menu ul li:hover span,
+        .widget_categories ul li:hover span,
+        .bl_posts .loadmore .ajaxload,
+        button.navbar-toggle,
+        .bl_posts article:hover .post-title a,
+        .toggle-orderposts,
+        .toggle-orderposts:hover {
+            color: #ea5952;
+        }
+        
+        .menu-brand-marker,
+        .menu-brand span {
+            color: #111111;
+        }
+        
+        #header-content {
+            background-color: #ffffff;
+        }
+        
+        #header-main-menu .child-menu-wrap,
+        #header-main-menu .menu > .normal-menu .child-items,
+        #header-main-menu > ul > li.super-menu .child-menu-wrap > .child-items > li {
+            background-color: #ffffff!important;
+        }
+        /*****************/
+        /*	HEADER / MENU
+			/*****************/
+        /* menu_height */
+        
+        #header-content > .container > .row {
+            height: 60px;
+        }
+        
+        #header-content.fixed > .container > .row {
+            height: 36px;
+        }
+        
+        #header-content {
+            background-image: url("https://www.creativeshrimp.com/wp-content/uploads/2015/01/trback1.png");
+        }
+        
+        .fixed .above_header {
+            display: none;
+        }
+        /*****************/
+        /*	WIDGETS
+			/*****************/
+        
+        #side-bar .widget-head,
+        .bl_posts .widget-head .title-area {
+            color: #383838;
+        }
+        /*****************/
+        /*	FOOTER
+			/*****************/
+        
+        body.boxed #footer,
+        body.full_width #footer {
+            background-color: #333333;
+        }
+        
+        #footer .widget-head {
+            color: #ffffff;
+        }
+        
+        body #footer a {
+            color: #dd5454;
+        }
+    </style>
+</head>
+
+<body class="post-template-default single single-post postid-12134 single-format-standard full_width do-etfw">
+    <!-- wrap   -->
+    <main id="wrap">
+        <header id="page-header">
+            <section id="header-content">
+                <div class="container container-parent">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-12 col-md-2 clearfix">
+                            <a class="menu-brand" href="https://www.creativeshrimp.com" title="Creative Shrimp" rel="home">
+                                <div class="menu-brand-marker">
+                                    <img class="big-logo" src="https://www.creativeshrimp.com/wp-content/uploads/2018/11/CreativeShrimp-logo.png" alt="Creative Shrimp"> <img class="mini-logo" src="https://www.creativeshrimp.com/wp-content/uploads/2018/11/CreativeShrimp-logo-small.png" alt="Creative Shrimp"> </div>
+
+                            </a>
+
+                            <button type="button" class="navbar-toggle visible-xs visible-sm" data-toggle="collapse" data-target=".blu-menu">
+                                <span class="sr-only">Toggle navigation</span>
+                                <i class="fa fa-bars"></i>
+                            </button>
+                        </div>
+                        <div class="col-xs-12 col-sm-10 col-md-10 header-main-menu-container">
+                            <nav id="header-main-menu" class="blu-menu collapse navbar-collapse">
+                                <ul id="menu-menu" class="menu">
+                                    <li id='menu-item-8765' class='menu-item menu-item-type-post_type menu-item-object-page'>
+                                        <a href="https://www.creativeshrimp.com/about"><span>About Us</span></a>
+                                    </li>
+                                    <!-- Close Element (depth: 0) -->
+
+                                    <li id='menu-item-6891' class='menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children normal-menu'>
+                                        <a href="https://www.creativeshrimp.com/tutorials"><span>Tutorials</span></a>
+                                        <div class="child-menu-wrap clearfix">
+                                            <!-- open normal menu wrap -->
+                                            <ul class="child-items">
+
+                                                <li id='menu-item-12397' class='menu-item menu-item-type-custom menu-item-object-custom'>
+                                                    <a href="/tutorials"><span>Tutorials</span></a>
+                                                </li>
+                                                <!-- Close Element (depth: 1) -->
+
+                                                <li id='menu-item-11208' class='menu-item menu-item-type-custom menu-item-object-custom'>
+                                                    <a href="/lighting-tutorials-my-way-to-write-a-book.html"><span>Book</span></a>
+                                                </li>
+                                                <!-- Close Element (depth: 1) -->
+
+                                                <li id='menu-item-10363' class='menu-item menu-item-type-post_type menu-item-object-page'>
+                                                    <a href="https://www.creativeshrimp.com/podcasts"><span>#AskGleb Podcast</span></a>
+                                                </li>
+                                                <!-- Close Element (depth: 1) -->
+
+                                                <li id='menu-item-9874' class='menu-item menu-item-type-post_type menu-item-object-page'>
+                                                    <a href="https://www.creativeshrimp.com/getting-started-with-digital-art-01"><span>Start Here</span></a>
+                                                </li>
+                                                <!-- Close Element (depth: 1) -->
+
+                                            </ul>
+                                            <!-- child-items (normal-menu) -->
+                                    </li>
+                                    <!-- Close Element (depth: 1) -->
+
+                                    <li id='menu-item-14396' class='menu-item menu-item-type-custom menu-item-object-custom'>
+                                        <a href="https://www.artstation.com/gleb_alexandrov"><span>Gallery</span></a>
+                                    </li>
+                                    <!-- Close Element (depth: 0) -->
+
+                                    <li id='menu-item-12916' class='menu-item menu-item-type-post_type menu-item-object-page'>
+                                        <a href="https://www.creativeshrimp.com/products"><span>Products</span></a>
+                                    </li>
+                                    <!-- Close Element (depth: 0) -->
+
+                                    <li id='menu-item-9489' class='menu-item menu-item-type-custom menu-item-object-custom'>
+                                        <a href="/resources.html"><span>Resources</span></a>
+                                    </li>
+                                    <!-- Close Element (depth: 0) -->
+
+                                    <li id='menu-item-11878' class='menu-item menu-item-type-custom menu-item-object-custom'>
+                                        <a href="/contact"><span>Contact</span></a>
+                                    </li>
+                                    <!-- Close Element (depth: 0) -->
+                                </ul>
+                            </nav>
+                            </div>
+                        </div>
+                    </div>
+            </section>
+        </header>
+
+        <section id="page-body">
+
+            <section id="main-content" class="container container-parent">
+                <div id="content-title" class="col-md-12">
+                    <h1 class="post-title">
+										Top 30 Artworks of Beeple from 2015 (WARNING: Can Cause Brain Damage)									</h1>
+                    <div class="meta-info">
+                        <div class="info-category">
+                            <ul class="unstyled">
+                                <li style="display:inline;" class="post-meta-category"><a href="https://www.creativeshrimp.com/category/uncategorized" title="View all posts in Uncategorized">Uncategorized</a></li>
+                            </ul>
+                        </div>
+                        <div class="info-date">
+                            <time class="timeago tips" title="November 12, 2015" datetime="November 12, 2015">November 12, 2015</time>
+                        </div>
+                        <div class="info-comments"><i class="fa fa-comment"></i><span>42</span></div>
+                        <div class="info-tags">
+                            <ul class="unstyled">
+                                <li style="display:inline;" class="post-meta-category"><a class="tag" href="https://www.creativeshrimp.com/tag/art-2" title="View all posts tagged with art">art</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div id="content" class=" col-xs-12 col-sm-12 col-md-9 col-lg-9 " role="main">
+                    <article id="post-12134" class="post-12134 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-art-2">
+                        <div class="entry-container">
+                            <div class="entry-image-container">
+                                <div class="entry-image" style="max-height: none;">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/beeple_thumbnail_01_1.jpg" rel="bookmark">
+                                        <img width="1018" height="499" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/beeple_thumbnail_01_1.jpg" class="attachment-original size-original wp-post-image" alt="beeple mike winkelmann" /> </a>
+                                </div>
+                            </div>
+                            <div class="entry-content">
+                                <aside class="mashsb-container mashsb-main ">
+                                    <div class="mashsb-box">
+                                        <div class="mashsb-buttons"><a class="mashicon-facebook mash-large mashsb-noshadow" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.creativeshrimp.com%2Ftop-30-artworks-of-beeple.html" target="_top" rel="nofollow"><span class="icon"></span><span class="text">Facebook</span></a><a class="mashicon-twitter mash-large mashsb-noshadow" href="https://twitter.com/intent/tweet?text=Top%2030%20Artworks%20of%20Beeple%20from%202015%20%28WARNING%3A%20Can%20Cause%20Brain%20Damage%29&url=https://www.creativeshrimp.com/?p=12134&via=gleb_alexandrov" target="_top" rel="nofollow"><span class="icon"></span><span class="text">Twitter</span></a><a class="mashicon-subscribe mash-large mashsb-noshadow" href="#" target="_top" rel="nofollow"><span class="icon"></span><span class="text">Subscribe</span></a>
+                                            <div class="onoffswitch2 mash-large mashsb-noshadow" style="display:none;"></div>
+                                        </div>
+                                    </div>
+                                    <div style="clear:both;"></div>
+                                </aside>
+                                <!-- Share buttons by mashshare.net - Version: 3.7.5-->
+                                <p lang="en-US">Abso-fucking-lutely nuts. <a href="http://www.beeple-crap.com/">Mike Winkelmann aka Beeple</a> has finished an &#8216;everyday&#8217; image for over 3100 days.</p>
+                                <p lang="en-US">Every. Day.</p>
+                                <p lang="en-US"><span class="label bluth yellow">In his own words “some of it is ok, but a lot of it kind of blows ass.”</span></p>
+                                <p lang="en-US">For sure Mike&#8217;s phenomenal portfolio has a power to fuck with your mind. So be careful.</p>
+                                <p lang="en-US">Mike is a freelance motion designer and 3D artist from Wisconsin, USA. He uses <a href="http://www.maxon.net/products/new-in-cinema-4d-r17/overview.html">Cinema4D</a>, <a href="http://videocopilot.net/">After Effects</a> and <a href="http://www.photoshop.com/">Photoshop</a>. His short films have screened at onedotzero, Prix Ars Electronica and the Sydney Biennale.</p>
+                                <p lang="en-US">Here are <strong>Top 30 Artworks</strong> of Beeple from 2015.</p>
+                                <p lang="en-US"><em><strong>Warning: After seeing these pictures you may be tempted to create your own daily works.</strong></em></p>
+                                <div id="attachment_12136" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SPORTFUCK.jpg"><img aria-describedby="caption-attachment-12136" class="wp-image-12136 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SPORTFUCK.jpg" alt="beeple artworks 3d" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SPORTFUCK.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SPORTFUCK-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SPORTFUCK-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SPORTFUCK-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SPORTFUCK-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12136" class="wp-caption-text">SPORTFUCK</p>
+                                </div>
+                                <div id="attachment_12135" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/MCD-2087.jpg"><img aria-describedby="caption-attachment-12135" class="wp-image-12135 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/MCD-2087.jpg" alt="beeple" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/MCD-2087.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/MCD-2087-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/MCD-2087-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/MCD-2087-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/MCD-2087-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12135" class="wp-caption-text">MCD 2087</p>
+                                </div>
+                                <div id="attachment_12139" style="width: 880px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/burttn-coper-e1447256280215.jpg"><img aria-describedby="caption-attachment-12139" class="wp-image-12139 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/burttn-coper-e1447256280215.jpg" alt="beeple 3d cgi cinema 4d" width="870" height="897" /></a>
+                                    <p id="caption-attachment-12139" class="wp-caption-text">burttn coper</p>
+                                </div>
+                                <div id="attachment_12138" style="width: 743px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ACRYLIC-DISPERSION.jpg"><img aria-describedby="caption-attachment-12138" class="wp-image-12138 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ACRYLIC-DISPERSION.jpg" alt="art 3d cg" width="733" height="1000" /></a>
+                                    <p id="caption-attachment-12138" class="wp-caption-text">ACRYLIC DISPERSION</p>
+                                </div>
+                                <div id="attachment_12137" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/DEM-CUBES-e1447256293476.jpg"><img aria-describedby="caption-attachment-12137" class="wp-image-12137 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/DEM-CUBES.jpg" alt="3d artwork lowpoly" width="900" height="900" /></a>
+                                    <p id="caption-attachment-12137" class="wp-caption-text">DEM CUBES</p>
+                                </div>
+                                <div id="attachment_12140" style="width: 756px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/BAF.1981.jpg"><img aria-describedby="caption-attachment-12140" class="wp-image-12140 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/BAF.1981.jpg" alt="beeple artworks" width="746" height="1000" /></a>
+                                    <p id="caption-attachment-12140" class="wp-caption-text">BAF.1981</p>
+                                </div>
+                                <div id="attachment_12141" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/EIGHT-YEARS.jpg"><img aria-describedby="caption-attachment-12141" class="wp-image-12141 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/EIGHT-YEARS.jpg" alt="low poly art cg" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/EIGHT-YEARS.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/EIGHT-YEARS-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/EIGHT-YEARS-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/EIGHT-YEARS-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/EIGHT-YEARS-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12141" class="wp-caption-text">EIGHT YEARS</p>
+                                </div>
+                                <div id="attachment_12142" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ELEVEN.jpg"><img aria-describedby="caption-attachment-12142" class="wp-image-12142 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ELEVEN.jpg" alt="cg art beeple" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ELEVEN.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/ELEVEN-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/ELEVEN-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/ELEVEN-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/ELEVEN-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12142" class="wp-caption-text">ELEVEN</p>
+                                </div>
+                                <div id="attachment_12143" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/FLOOR-100.jpg"><img aria-describedby="caption-attachment-12143" class="wp-image-12143 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/FLOOR-100.jpg" alt="beeple images artworks top 30" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/FLOOR-100.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/FLOOR-100-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/FLOOR-100-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/FLOOR-100-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/FLOOR-100-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12143" class="wp-caption-text">FLOOR 100</p>
+                                </div>
+                                <div id="attachment_12144" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/GOD-FIVE.jpg"><img aria-describedby="caption-attachment-12144" class="wp-image-12144 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/GOD-FIVE.jpg" alt="3d cgi art" width="900" height="923" /></a>
+                                    <p id="caption-attachment-12144" class="wp-caption-text">GOD FIVE</p>
+                                </div>
+                                <div id="attachment_12145" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/heaven-and-hell.jpg"><img aria-describedby="caption-attachment-12145" class="wp-image-12145 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/heaven-and-hell.jpg" alt="cinema4d blender cgi art" width="900" height="931" /></a>
+                                    <p id="caption-attachment-12145" class="wp-caption-text">heaven and hell</p>
+                                </div>
+                                <div id="attachment_12146" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/metallurgy.jpg"><img aria-describedby="caption-attachment-12146" class="wp-image-12146 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/metallurgy.jpg" alt="beeple" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/metallurgy.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/metallurgy-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/metallurgy-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/metallurgy-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/metallurgy-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12146" class="wp-caption-text">metallurgy</p>
+                                </div>
+                                <div id="attachment_12147" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUCLEAR-FAMILY.jpg"><img aria-describedby="caption-attachment-12147" class="wp-image-12147 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUCLEAR-FAMILY.jpg" alt="daily artworks beeple" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUCLEAR-FAMILY.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUCLEAR-FAMILY-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUCLEAR-FAMILY-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUCLEAR-FAMILY-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUCLEAR-FAMILY-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12147" class="wp-caption-text">NUCLEAR FAMILY</p>
+                                </div>
+                                <div id="attachment_12148" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUMBER-TWO.jpg"><img aria-describedby="caption-attachment-12148" class="wp-image-12148 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUMBER-TWO.jpg" alt="lowpoly art" width="900" height="896" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUMBER-TWO.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUMBER-TWO-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUMBER-TWO-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/NUMBER-TWO-280x280.jpg 280w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12148" class="wp-caption-text">NUMBER TWO</p>
+                                </div>
+                                <div id="attachment_12149" style="width: 702px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/OB.TANK_.jpg"><img aria-describedby="caption-attachment-12149" class="wp-image-12149 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/OB.TANK_.jpg" alt="beeple" width="692" height="1000" /></a>
+                                    <p id="caption-attachment-12149" class="wp-caption-text">OB.TANK</p>
+                                </div>
+                                <div id="attachment_12150" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ONE-FOOT.jpg"><img aria-describedby="caption-attachment-12150" class="wp-image-12150 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ONE-FOOT.jpg" alt="low poly art" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ONE-FOOT.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/ONE-FOOT-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/ONE-FOOT-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/ONE-FOOT-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/ONE-FOOT-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12150" class="wp-caption-text">ONE FOOT</p>
+                                </div>
+                                <div id="attachment_12151" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ONE-MILLION.jpg"><img aria-describedby="caption-attachment-12151" class="wp-image-12151 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/ONE-MILLION.jpg" alt="ONE MILLION" width="900" height="928" /></a>
+                                    <p id="caption-attachment-12151" class="wp-caption-text">ONE MILLION</p>
+                                </div>
+                                <div id="attachment_12152" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/recore..jpg"><img aria-describedby="caption-attachment-12152" class="wp-image-12152 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/recore..jpg" alt="cinema4d beeple art" width="900" height="928" /></a>
+                                    <p id="caption-attachment-12152" class="wp-caption-text">recore.</p>
+                                </div>
+                                <div id="attachment_12153" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/soup-f.jpg"><img aria-describedby="caption-attachment-12153" class="wp-image-12153 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/soup-f.jpg" alt="soup-f" width="900" height="928" /></a>
+                                    <p id="caption-attachment-12153" class="wp-caption-text">soup-f</p>
+                                </div>
+                                <div id="attachment_12154" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SUPERBUG.jpg"><img aria-describedby="caption-attachment-12154" class="wp-image-12154 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SUPERBUG.jpg" alt="SUPERBUG" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SUPERBUG.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SUPERBUG-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SUPERBUG-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SUPERBUG-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SUPERBUG-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12154" class="wp-caption-text">SUPERBUG</p>
+                                </div>
+                                <div id="attachment_12155" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SWEET-TOOTH.jpg"><img aria-describedby="caption-attachment-12155" class="wp-image-12155 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SWEET-TOOTH.jpg" alt="SWEET TOOTH" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SWEET-TOOTH.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SWEET-TOOTH-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SWEET-TOOTH-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SWEET-TOOTH-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SWEET-TOOTH-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12155" class="wp-caption-text">SWEET TOOTH</p>
+                                </div>
+                                <div id="attachment_12156" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SYSTEMIC-ABERRATION.jpg"><img aria-describedby="caption-attachment-12156" class="wp-image-12156 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SYSTEMIC-ABERRATION.jpg" alt="SYSTEMIC ABERRATION" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/SYSTEMIC-ABERRATION.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SYSTEMIC-ABERRATION-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SYSTEMIC-ABERRATION-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SYSTEMIC-ABERRATION-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/SYSTEMIC-ABERRATION-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12156" class="wp-caption-text">SYSTEMIC ABERRATION</p>
+                                </div>
+                                <div id="attachment_12157" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/T.VARIATIONS.jpg"><img aria-describedby="caption-attachment-12157" class="wp-image-12157 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/T.VARIATIONS.jpg" alt="T.VARIATIONS" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/T.VARIATIONS.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/T.VARIATIONS-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/T.VARIATIONS-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/T.VARIATIONS-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/T.VARIATIONS-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12157" class="wp-caption-text">T.VARIATIONS</p>
+                                </div>
+                                <div id="attachment_12158" style="width: 779px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/TEXTRIOUS.jpg"><img aria-describedby="caption-attachment-12158" class="wp-image-12158 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/TEXTRIOUS.jpg" alt="TEXTRIOUS" width="769" height="1000" /></a>
+                                    <p id="caption-attachment-12158" class="wp-caption-text">TEXTRIOUS</p>
+                                </div>
+                                <div id="attachment_12159" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/TUNGSTEN.jpg"><img aria-describedby="caption-attachment-12159" class="wp-image-12159 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/TUNGSTEN.jpg" alt="low poly art beeple" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/TUNGSTEN.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/TUNGSTEN-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/TUNGSTEN-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/TUNGSTEN-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/TUNGSTEN-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12159" class="wp-caption-text">TUNGSTEN</p>
+                                </div>
+                                <div id="attachment_12160" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/U1.COMBINER.jpg"><img aria-describedby="caption-attachment-12160" class="wp-image-12160 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/U1.COMBINER.jpg" alt="lowpoly art" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/U1.COMBINER.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/U1.COMBINER-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/U1.COMBINER-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/U1.COMBINER-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/U1.COMBINER-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12160" class="wp-caption-text">U1.COMBINER</p>
+                                </div>
+                                <div id="attachment_12161" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/VHC.01.jpg"><img aria-describedby="caption-attachment-12161" class="wp-image-12161 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/VHC.01.jpg" alt="VHC.01" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/VHC.01.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/VHC.01-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/VHC.01-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/VHC.01-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/VHC.01-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12161" class="wp-caption-text">VHC.01</p>
+                                </div>
+                                <div id="attachment_12162" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/WINTERMIX.jpg"><img aria-describedby="caption-attachment-12162" class="wp-image-12162 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/WINTERMIX.jpg" alt="WINTERMIX" width="900" height="900" srcset="https://www.creativeshrimp.com/wp-content/uploads/2015/11/WINTERMIX.jpg 900w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/WINTERMIX-80x80.jpg 80w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/WINTERMIX-160x160.jpg 160w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/WINTERMIX-280x280.jpg 280w, https://www.creativeshrimp.com/wp-content/uploads/2015/11/WINTERMIX-560x560.jpg 560w" sizes="(max-width: 900px) 100vw, 900px" /></a>
+                                    <p id="caption-attachment-12162" class="wp-caption-text">WINTERMIX</p>
+                                </div>
+                                <div id="attachment_12163" style="width: 721px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/YT.SUN-CITY08.jpg"><img aria-describedby="caption-attachment-12163" class="wp-image-12163 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/YT.SUN-CITY08.jpg" alt="YT.SUN-CITY08" width="711" height="1000" /></a>
+                                    <p id="caption-attachment-12163" class="wp-caption-text">YT.SUN-CITY08</p>
+                                </div>
+                                <div id="attachment_12164" style="width: 910px" class="wp-caption alignnone">
+                                    <a class="lightbox" href="https://www.creativeshrimp.com/wp-content/uploads/2015/11/DAY-3000.jpg"><img aria-describedby="caption-attachment-12164" class="wp-image-12164 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2015/11/DAY-3000.jpg" alt="DAY 3000" width="900" height="933" /></a>
+                                    <p id="caption-attachment-12164" class="wp-caption-text">DAY 3000</p>
+                                </div>
+                                <h2 lang="en-US">BEEPLE ON SOCIAL MEDIA</h2>
+                                <p lang="zxx"><span lang="en-US">• <a href="https://www.facebook.com/beeple">Facebook</a></span></p>
+                                <p lang="zxx"><span lang="en-US">• <a href="https://twitter.com/beeple">Twitter</a></span></p>
+                                <p lang="zxx"><span lang="en-US">• <a href="http://beeple.tumblr.com/">Tumblr</a></span></p>
+                                <p lang="zxx"><span lang="en-US">• <a href="https://www.instagram.com/beeple_crap/">Instagram</a></span></p>
+                                <p lang="zxx"><span lang="en-US">• <a href="https://vimeo.com/beeple">Vimeo</a></span></p>
+                                <h2 lang="zxx">OVER TO YOU</h2>
+                                <p>Are you up for the challenge? Create the everyday artwork for the next <strong>10</strong> days.</p>
+                                <blockquote>
+                                    <p><strong>After all as Steven Pressfield noted, &#8220;the most important thing about art is to work.&#8221;</strong></p>
+                                </blockquote>
+                                <p>I&#8217;d even want to encourage you to share your <strong><a href="https://twitter.com/hashtag/dailyart">#dailyart</a></strong> in the comments below.</p>
+                                <p>No matter how good or bad you think it is.</p>
+                                <p><strong>A few tips:</strong></p>
+                                <p><strong>1.</strong> Build your scene around <strong>ONE</strong> emotion or concept. You should be able to describe your idea in one sentence.</p>
+                                <p><strong>2.</strong> Keep it minimal.</p>
+                                <p><strong>3.</strong> While creating a scene in Blender, follow Pareto principle (80% of the effects come from 20% of the causes).</p>
+                                <span class="label bluth yellow">When it starts getting hard, move on to post-processing</span>
+                                <p><strong>4.</strong> Post process the hell out of it in Gimp or Photoshop.</p>
+                                <p>I will be happy to share my thoughts and review it.</p>
+                                <footer class="entry-meta clearfix">
+
+                                    <ul class="post-tags clearfix">
+                                    </ul>
+
+                                </footer>
+                                <!-- .entry-meta -->
+                            </div>
+                            <!-- .entry-content -->
+                        </div>
+                        <!-- .entry-container -->
+
+                    </article>
+                    <!-- #post-12134 -->
+                    <div class="entry-author-box">
+                        <div class="author-image">
+                            <img src="https://www.creativeshrimp.com/wp-content/uploads/2014/10/120x120.jpg">
+                        </div>
+                        <div class="author-body">
+                            <h2 class="author-name"><a href="https://www.creativeshrimp.com/author/spelle">Gleb Alexandrov</a></h2>
+                            <p class="author-description"></p>
+                        </div>
+                    </div>
+                    <div class="comments col-md-12 col-lg-12">
+                        <div id="disqus_thread"></div>
+                    </div>
+
+                </div>
+                <!-- #content .site-content -->
+                <aside id="side-bar" class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                    <div id="duplicate_widget-4" class=" bl_html-6 bl_html widget_duplicate_widget single-widget box pad-xs-10 pad-sm-10 pad-md-10 pad-lg-20 clearfix">
+                        <div class="widget-body">
+                            <a href="/about"><img class="alignnone wp-image-12401 size-full" src="https://www.creativeshrimp.com/wp-content/uploads/2019/04/creative_shrimp_about_01.jpg" alt="gleb alexandrov" width="450" height="279" /></a>
+                        </div>
+                    </div>
+                    <div id="search-3" class="widget_search single-widget box pad-xs-10 pad-sm-10 pad-md-10 pad-lg-20 clearfix">
+                        <form action="https://www.creativeshrimp.com/" method="get" class="searchform" role="search">
+                            <fieldset>
+                                <input type="text" name="s" value="" placeholder="Search.." />
+                            </fieldset>
+                        </form>
+                    </div>
+                    <div id="bl_tabs-5" class="bl_tabs single-widget box pad-xs-10 pad-sm-10 pad-md-10 pad-lg-20 clearfix">
+                        <h3 class="widget-head clearfix"><span>New Posts</span></h3>
+                        <ul class="nav nav-tabs" id="bl_side_tabs">
+                            <li class="active"><a href="#bl_side_posts">Posts</a></li>
+                        </ul>
+
+                        <div class="tab-content clearfix">
+                            <div class="tab-pane active" id="bl_side_posts">
+                                <ul>
+                                    <li>
+                                        <a class="tab_attachment" href="https://www.creativeshrimp.com/glitchy-title.html"><img height="50" width="50" src="https://www.creativeshrimp.com/wp-content/uploads/2020/04/glitch-thumbnail_01_2-50x50.jpg" /></a>
+                                        <div class="tab_text">
+                                            <h5><a href="https://www.creativeshrimp.com/glitchy-title.html">Glitchy Title Effect in Blender</a></h5>
+                                            <div class="meta-info">
+                                                <div class="info-date">
+                                                    <time class="timeago tips" title="April 1, 2020" datetime="April 1, 2020">April 1, 2020</time>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a class="tab_attachment" href="https://www.creativeshrimp.com/3d-renders-review-ep-1.html"><img height="50" width="50" src="https://www.creativeshrimp.com/wp-content/uploads/2020/03/thumbnail_01_2-50x50.jpg" /></a>
+                                        <div class="tab_text">
+                                            <h5><a href="https://www.creativeshrimp.com/3d-renders-review-ep-1.html">3D Renders Review ep. 1</a></h5>
+                                            <div class="meta-info">
+                                                <div class="info-date">
+                                                    <time class="timeago tips" title="March 25, 2020" datetime="March 25, 2020">March 25, 2020</time>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a class="tab_attachment" href="https://www.creativeshrimp.com/render-review-submissions.html"><img height="50" width="50" src="https://www.creativeshrimp.com/wp-content/uploads/2020/03/3drender_review_thumbnail_01_1-50x50.jpg" /></a>
+                                        <div class="tab_text">
+                                            <h5><a href="https://www.creativeshrimp.com/render-review-submissions.html">3d Render Review &#8211; call for submissions (Deadline &#8211; March 22th)</a></h5>
+                                            <div class="meta-info">
+                                                <div class="info-date">
+                                                    <time class="timeago tips" title="March 20, 2020" datetime="March 20, 2020">March 20, 2020</time>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a class="tab_attachment" href="https://www.creativeshrimp.com/when-our-new-blender-series-is-going-to-be-out.html"><img height="50" width="50" src="https://www.creativeshrimp.com/wp-content/uploads/2020/03/vlog_march_2020_thumbnail_01-50x50.jpg" /></a>
+                                        <div class="tab_text">
+                                            <h5><a href="https://www.creativeshrimp.com/when-our-new-blender-series-is-going-to-be-out.html">When our new Blender series is going to be out</a></h5>
+                                            <div class="meta-info">
+                                                <div class="info-date">
+                                                    <time class="timeago tips" title="March 15, 2020" datetime="March 15, 2020">March 15, 2020</time>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a class="tab_attachment" href="https://www.creativeshrimp.com/eevee-tutorial.html"><img height="50" width="50" src="https://www.creativeshrimp.com/wp-content/uploads/2020/03/blender_viewport_thumbnail_v3_01b-50x50.jpg" /></a>
+                                        <div class="tab_text">
+                                            <h5><a href="https://www.creativeshrimp.com/eevee-tutorial.html">Blender 2.8x Eevee Basics (Viewport Tutorial Part 3/3)</a></h5>
+                                            <div class="meta-info">
+                                                <div class="info-date">
+                                                    <time class="timeago tips" title="March 3, 2020" datetime="March 3, 2020">March 3, 2020</time>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <script type="text/javascript">
+                            jQuery(function() {
+                                jQuery('#bl_side_tabs a').click(function(e) {
+                                    e.preventDefault();
+
+                                    jQuery('.bl_tabs .tab-content ul li').css('right', '-110%');
+
+                                    jQuery(this).tab('show');
+                                    jQuery(jQuery(this).attr('href')).find('li').each(function(i) {
+                                        jQuery(this).delay(50 * i).animate({
+                                            right: '0'
+                                        }, 150, 'swing');
+                                    });
+                                });
+                                setTimeout(function() {
+                                    jQuery('.bl_tabs .tab-content .active ul li').each(function(i) {
+                                        jQuery(this).delay(50 * i).animate({
+                                            right: '0'
+                                        }, 150, 'swing');
+                                    });
+                                }, 500)
+
+                            });
+                        </script>
+                    </div>
+                    <div id="post_sidebar_sticky" class="sticky_sidebar">
+                    </div>
+                </aside>
+            </section>
+            <!-- .container -->
+            </div>
+            <!-- #primary -->
+            </div>
+            <!-- #main -->
+        </section>
+    </main>
+    <footer id="footer">
+        <div class="container container-parent">
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="bl_html-4" class="single-widget col-md-4 col-lg-4 pad-md-10 pad-lg-10 bl_html">
+                        <h3 class="widget-head clearfix"><span>about</span></h3>
+                        <div class="widget-body pad-xs-10 pad-sm-15 pad-md-20">
+                            <p>Hi there,
+                                <br />
+                                <a href="/about">We're these dudes</a> who make a living, creating 3D graphics and talking about it online.</p>
+                        </div>
+                    </div>
+                    <div id="bl_html-3" class="single-widget col-md-4 col-lg-4 pad-md-10 pad-lg-10 bl_html">
+                        <h3 class="widget-head clearfix"><span>contact</span></h3>
+                        <div class="widget-body pad-xs-10 pad-sm-15 pad-md-20">
+                            <p>Have a question? Just want to say hi?</p>
+                            <p>Feel free to <a href="/contact">contact us</a>.</p>
+                        </div>
+                    </div>
+                    <div id="bl_posts-10" class="single-widget col-md-4 col-lg-4 pad-md-10 pad-lg-10 bl_posts">
+                        <h3 class="widget-head clearfix"><span>newest post</span><small></small></h3>
+                        <div class="box pad-xs-10 pad-sm-15 pad-md-20 clearfix">
+                            <div class="row bl_posts_information" data-ajaxid="1" data-total-posts="0" data-click-count="0" data-post__not_in="[]" data-orderby="date" data-order="desc" data-css="col-sm-12 col-md-12 col-lg-12" data-type="grid" data-args='{"post_type":["post"],"ignore_sticky_posts":1,"posts_per_page":"1","display_excerpt":"false","css_class":"col-sm-12 col-md-12 col-lg-12","display_author":"false","display_duplicates":"true","orderby":"date","order":"desc","offset":0,"category__in":"0","loadmorebutton":"false","post_status":"publish","display_date":"false"}' data-posts_per_page="1" data-offset="0">
+                                <article data-categoryslug="cg-tutorials" class="col-sm-12 col-md-12 col-lg-12">
+                                    <div class="post-image">
+                                        <div class="post-icon"><i class="fa fa-play"></i></div>
+                                        <a class="post-image-link" href="https://www.creativeshrimp.com/glitchy-title.html"></a>
+                                        <div class="meta-info">
+                                            <div class="info-category">
+                                                <ul class="unstyled">
+                                                    <li style="display:inline;" class="post-meta-category"><a href="https://www.creativeshrimp.com/category/cg-tutorials" title="View all posts in Tutorials">Tutorials</a></li>
+                                                </ul>
+                                            </div>
+                                        </div> <img alt="" src="https://www.creativeshrimp.com/wp-content/uploads/2020/04/glitch-thumbnail_01_2-900x430.jpg"></div>
+                                    <div class="post-body box pad-xs-15 pad-sm-15 pad-md-20 pad-lg-20">
+                                        <h3 class="post-title"><a href="https://www.creativeshrimp.com/glitchy-title.html">Glitchy Title Effect in Blender</a></h3>
+                                        <div class="post-content text-muted clearfix"></div>
+                                    </div>
+                                </article>
+                                <input type="hidden" class="post__not_in" data-post__not_in="[15520]">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer_text">
+            <p>© 2014-2020 <a href="https://www.creativeshrimp.com">CreativeShrimp</a>. All Rights Reserved. <a href="/privacy">Privacy Policy</a>.</p>
+        </div>
+    </footer>
+    <script type="text/javascript">
+        jQuery(function() {
+            omShortcodes.init(["buttons", "tooltips", "toggle", "tabs", "responsivebox", "counter"]);
+        });
+    </script>
+    <!-- This section is created with the SZ-Google for WordPress plugin 1.9.0 -->
+    <!-- ===================================================================== -->
+    <!-- ===================================================================== -->
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/mailchimp-wp/assets/pagecount.min.js?ver=2.4.1'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var wpcf7 = {
+            "apiSettings": {
+                "root": "https:\/\/www.creativeshrimp.com\/wp-json\/contact-form-7\/v1",
+                "namespace": "contact-form-7\/v1"
+            },
+            "cached": "1"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var countVars = {
+            "disqusShortname": "creativeshrimp"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var embedVars = {
+            "disqusConfig": {
+                "integration": "wordpress 3.0.17"
+            },
+            "disqusIdentifier": "12134 http:\/\/www.creativeshrimp.com\/?p=12134",
+            "disqusShortname": "creativeshrimp",
+            "disqusTitle": "Top 30 Artworks of Beeple from 2015 (WARNING: Can Cause Brain Damage)",
+            "disqusUrl": "https:\/\/www.creativeshrimp.com\/top-30-artworks-of-beeple.html",
+            "postId": "12134"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.17'></script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/olevmedia-shortcodes/assets/js/shortcodes.js?ver=1.1.9'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var blu = {
+            "site_url": "https:\/\/www.creativeshrimp.com",
+            "ajaxurl": "https:\/\/www.creativeshrimp.com\/wp-admin\/admin-ajax.php",
+            "fixed_header": "true",
+            "disable_timeago": "",
+            "menuhover": "",
+            "disable_push_state_notification": "",
+            "locale": {
+                "no_search_results": "No results match your search.",
+                "searching": "Searching...",
+                "search_results": "Search Results",
+                "see_all": "see all",
+                "loading": "Loading...",
+                "no_more_posts": "No more posts",
+                "subscribe": "Subscribe!",
+                "see_more_articles": "See more articles",
+                "no_email_provided": "No email provided",
+                "thank_you_for_subscribing": "Thank you for subscribing!",
+                "ago": "ago",
+                "from_now": " from now",
+                "seconds": "s",
+                "minute": "m",
+                "minutes": "m",
+                "hour": "h",
+                "hours": "h",
+                "day": "d",
+                "days": "d",
+                "month": " month",
+                "months": " months",
+                "year": " year",
+                "years": " years"
+            }
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/themes/litemag/assets/js/theme.min.js?ver=1.55'></script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/themes/litemag/assets/js/plugins.js?ver=1.55'></script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-includes/js/comment-reply.min.js?ver=5.4'></script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets.js?ver=1.0'></script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-content/plugins/wp-gallery-custom-links/wp-gallery-custom-links.js?ver=1.1'></script>
+    <script type='text/javascript' src='https://www.creativeshrimp.com/wp-includes/js/wp-embed.min.js?ver=5.4'></script>
+</body>
+
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Served from: www.creativeshrimp.com @ 2020-04-29 10:50:52 by W3 Total Cache
+-->
