@@ -1,0 +1,34 @@
+Note : Read the iphone.csv dataset to pandas dataframe
+
+1 - The column names have spaces . rename the column names to have underscore '_' instead of space (try to do in one go instead of specifying each column nam in rename method)
+
+2- start rating for some of the models is missing in the dataset. fill those missing values with the average rating all the models.
+
+3- Now instead of filling missing values with avg rating of full dataset , fill with avg rating based on RAM. example :  if rating for a 2 gb phone is missing then take average of all other 2 gb phones rating and fill that value. 
+
+4- create a new column in the dataframe "Discount_Percentage" based on MRP and sale value
+
+5- which model has highest percent discount ?
+
+6- find total no of models  each space configuration (128 GB , 64 GB etc)
+
+7- find total number of models for each color 
+
+8- find total number of models by iphone version : eg
+iphone 8:  9
+iphone XR : 5
+
+so on..
+
+9- list top 5 models having highest no of reviews 
+
+10 - what is the price diffrence between highest price and lowest price iphone (based on mrp)
+
+11 - find total no of reviews for iphone 11 and iphone 12 category . Output should have only 2 rows (for 11 and 12).
+
+12- which iphone has 3rd highest MRP
+
+13- what is the average mrp of iphones which costs above 100,000
+
+14- which iphone with 128 GB space has highest ratings to review ratio
+
